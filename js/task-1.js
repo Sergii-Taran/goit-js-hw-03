@@ -1,4 +1,4 @@
-'use strickt';
+'use strict';
 
 function slugify(title) {
   title = title.toLowerCase();
